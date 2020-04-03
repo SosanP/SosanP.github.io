@@ -1,0 +1,132 @@
+.navbar {
+    background-color: #F6CACB;
+}
+
+.navbar-toggler-icon {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+#home {
+    cursor: context-menu;
+}
+
+.dropdown-item {
+    background-color: #F6CACB;
+    color: white;
+}
+
+.jumbotron {
+
+    background-image: url("redd.jfif");
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn, #card {
+    border: solid #F6CACB 2px;
+}
+
+#card:hover {
+    cursor: pointer;
+    box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(83, 83, 83, 0.12);
+}
+
+.accordion .mb-0 {
+    background-color: #F6CACB;
+}
+
+.map-container {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+}
+
+.map-container iframe{
+    left:0;
+    top:0;
+    position:absolute;
+}
+
+.containergoogle {
+    float: right;
+}
+
+h4{
+    margin-top: 40px;
+    position: center;
+}
+
+#btnPlayYouTube{
+    margin-bottom: 50px;
+    background-color: #f5c6cb;
+
+}
+
+#btn btn-primary btn-lg{
+    border: solid #F6CACB 2px;
+}
+
+footer {
+    background-color: #F6CACB;
+}
+
+.contact-section {
+    margin-left: auto;
+}
+
+.fa {
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+
+
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-instagram:hover {
+    color: #d6249f;
+}
+
+.fa-pinterest {
+    color: white;
+}
+
+.fa-pinterest:hover {
+    color: #cb2027;
+}
+
+#carouselExampleIndicators {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
